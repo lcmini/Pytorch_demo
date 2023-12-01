@@ -1,1 +1,1 @@
-A demo for Pytorch on GPU 
+A demo for AUV
